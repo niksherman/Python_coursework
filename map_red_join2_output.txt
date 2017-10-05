@@ -1,0 +1,21 @@
+ABC shows and counts Almost_Games	48231
+ABC shows and counts Almost_News	45589
+ABC shows and counts Almost_Show	49186
+ABC shows and counts Baked_Games	50603
+ABC shows and counts Baked_News	47109
+ABC shows and counts Cold_News	46905
+ABC shows and counts Cold_Sports	51001
+ABC shows and counts Dumb_Show	52819
+ABC shows and counts Dumb_Talking	102889
+ABC shows and counts Hot_Games	49222
+ABC shows and counts Hot_Show	53378
+ABC shows and counts Hourly_Cooking	53206
+ABC shows and counts Hourly_Show	47273
+ABC shows and counts Hourly_Talking	107159
+ABC shows and counts Loud_Games	48477
+ABC shows and counts Loud_Show	49794
+ABC shows and counts PostModern_Games	49633
+ABC shows and counts PostModern_News	49004
+ABC shows and counts Surreal_News	49400
+ABC shows and counts Surreal_Sports	45833
+total count 1096711
